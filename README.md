@@ -33,7 +33,11 @@ Visualization Insight:
 The confidence intervals overlap, suggesting no statistically significant difference in spending between married and unmarried users.
 
 🚀 Final Takeaways
+
 ✔ The Central Limit Theorem holds, as the sampling distribution means approximate population means.
+
 ✔ Gender-based spending is slightly higher for males, but the difference is not very large.
+
 ✔ Marital status has little impact on purchase behavior, as seen from the overlapping confidence intervals.
+
 ✔ The overall spending distribution is close to normal, making sampling-based estimations reliable.
